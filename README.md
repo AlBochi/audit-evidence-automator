@@ -21,23 +21,16 @@
 
 📖 Compliance Frameworks
 Currently supports:
-
 SOC 2 (controls defined in controls/soc2.yaml)
 
-Upcoming:
+🎯 Why This Matters:
 
-HIPAA
-
-ISO 27001
-
-🎯 Why This Matters
 This tool drastically reduces the manual effort and time involved in preparing audit evidence, turning a multi-week task into a matter of hours. It establishes you as a cloud compliance automation expert capable of delivering audit-ready materials with efficiency and precision.
 
-📌 How to Customize
+📌 How to Customize:
+
 Update or add compliance controls in YAML files under the controls/ directory.
-
 Modify HTML report templates in the templates/ folder for branding or formatting preferences.
-
 Extend automation scripts to cover additional frameworks or cloud providers.
 
 
