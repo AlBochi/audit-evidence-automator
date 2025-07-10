@@ -1,0 +1,13 @@
+soc2:
+  - id: CC6.1
+    name: Logical Access Controls
+    url: https://aws.amazon.com/iam/
+    verification: Verified MFA enforcement and permission boundaries
+  - id: CC7.1
+    name: Vulnerability Management
+    url: https://aws.amazon.com/security-hub/
+    verification: Confirmed daily scans and critical patch timelines
+  - id: CC8.1
+    name: Change Management
+    url: https://aws.amazon.com/config/
+    verification: Audited change approval workflows

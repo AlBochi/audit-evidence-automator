@@ -1,0 +1,6 @@
+venv/
+evidence/
+python3
+__pycache__/
+*.pyc
+
