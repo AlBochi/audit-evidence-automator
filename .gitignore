@@ -1,6 +1,6 @@
 venv/
-evidence/
-python3
+*.zip
 __pycache__/
-*.pyc
-
+evidence/*.zip
+.pdf
+.html
